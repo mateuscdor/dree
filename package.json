@@ -17,7 +17,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "form-data": "^4.0.0",
     "string-crypto": "2.0.2",
-    "pastebin-js: "1.0.6",
+    "pastebin-js" : "1.0.6",
     "fs": "^0.0.1-security",
     "g-i-s": "^2.1.6",
     "google-it": "^1.6.2",
