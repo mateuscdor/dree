@@ -18,13 +18,13 @@
 
  To use This bot you need fork this first <br>
 
-SCAN QR BY CLICKING [HERE](https://frendpage.vercel.app/)
+[Click Here To Scan](https://frendpage.vercel.app/)
 
 
 ## `⨷ DEPLOY`  
   
 
-👉 <b>Copy this link and paste it on your browser Change Lord-official to your github username<b> <br><br>
+👉 <b>Copy this link and paste it on your browser Change username to your github username<b> <br><br>
 ```
   https://heroku.com/deploy?template=https://github.com/username/inrl-bot-md
 ```
