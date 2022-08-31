@@ -8,7 +8,6 @@ DATABASE_URL = process.env.DATABASE_URL === undefined ? './bot.db' : process.env
 DEBUG = process.env.DEBUG === undefined ? false : convertToBool(process.env.DEBUG);
 module.exports = {
     VERSION: 'V 1.0.0',
-    HANDLERS: (process.env.PREFIX || '^[.,!]').trim(),
     SESSION_ID: process.env.SESSION_ID || '',
     OWNER : "917025099154",
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
