@@ -2,8 +2,7 @@
   "name": "inrl-bot-md",
   "version": "2.0.0",
   "description": "WhatsApp Bot Using Lib Baileys",
-  "main": "index.js",
-  "type": "commonjs",
+  "main": "index.js"
   "dependencies": {
     "Wa-Web": "github:adiwajshing/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -59,8 +58,7 @@
     "qrcode-terminal": "^0.12.0"
   },
   "scripts": {
-    "start": "supervisor -w lib,index.js,plugins index.js",
-    "test": "node index.js"
+    "start": "supervisor -s index.js",
   },
   "repository": {
     "type": "git",
