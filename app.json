@@ -9,11 +9,6 @@
 	"repository": "https://github.com/inrl-official/inrl-bot-md",
 	"stack": "container",
 	"env": {
-       "HANDLERS": {
-            "description": "Prefix of commands",
-            "required": true,
-            "value":"."
-        },
        "SESSION_ID": {
             "description": "Your session id",
             "required": true       
