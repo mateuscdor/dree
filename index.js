@@ -8,7 +8,7 @@ inrl-md
 
 */
 
-const Config = require('./config.js');
+let Config = require('./config.js');
 const { default: makeWASocket, DisconnectReason, useSingleFileAuthState, fetchLatestBaileysVersion, jidNormalizedUser, makeInMemoryStore, DEFAULT_CONNECTION_CONFIG, DEFAULT_LEGACY_CONNECTION_CONFIG, } = require("Wa-Web");
 const fs = require("fs");
 let StringCrypto = require('string-crypto');
