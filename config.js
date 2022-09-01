@@ -22,7 +22,7 @@ module.exports = {
     botName: "inrl-bot-md", 
   },
     reply: {
-    notFound: ""This Command not created. it was creating",
+    notFound: "This Command not created. it was creating",
     success: "Done ✓",
     admin: "This Feature Is Only For Admin",
     botAdmin: "Bot Must Be Admin First", 
